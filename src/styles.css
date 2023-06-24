@@ -1,0 +1,11 @@
+.address1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.addressCard {
+  background-color: aliceblue;
+  padding: 24px;
+  margin: 12px;
+}
